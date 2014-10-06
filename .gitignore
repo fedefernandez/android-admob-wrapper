@@ -13,6 +13,9 @@ bin/
 gen/
 
 # Gradle files
+/gradle/
+/gradlew
+/gradlew.bat
 .gradle/
 build/
 
@@ -24,3 +27,7 @@ proguard/
 
 # Log Files
 *.log
+
+# IDEA
+/.idea/
+*.iml
